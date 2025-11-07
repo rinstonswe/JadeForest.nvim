@@ -1,4 +1,4 @@
-local colorscheme = require 'JadeForest.nvim.colorscheme'
+local colorscheme = require 'JadeForest.colorscheme'
 
 local M = {}
 

@@ -1,4 +1,4 @@
-local config = require 'my-theme.config'
+local config = require 'JadeForest.nvim.config'
 
 local colorscheme = {
   standardWhite = '#ffffff',

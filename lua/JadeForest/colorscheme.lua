@@ -1,4 +1,4 @@
-local config = require '"JadeForest.nvim".config'
+local config = require 'JadeForest.config'
 
 local colorscheme = {
   standardWhite = '#ffffff',
